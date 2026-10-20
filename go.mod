@@ -3,7 +3,7 @@ module github.com/cloudfoundry/python-buildpack
 go 1.24.0
 
 require (
-	github.com/Dynatrace/libbuildpack-dynatrace v1.10.1-0.20261019103313-4497603ad132
+	github.com/Dynatrace/libbuildpack-dynatrace v1.10.1-0.20261020110538-4ceee1c7cc28
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/cloudfoundry/libbuildpack v0.0.0-20260306125332-dcaf55eb6f33
 	github.com/cloudfoundry/switchblade v0.9.5
